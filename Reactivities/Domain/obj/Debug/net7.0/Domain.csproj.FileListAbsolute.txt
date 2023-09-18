@@ -1,0 +1,11 @@
+/Users/longphan/dotnet-demo/Reactivities/Domain/bin/Debug/net7.0/Domain.deps.json
+/Users/longphan/dotnet-demo/Reactivities/Domain/bin/Debug/net7.0/Domain.dll
+/Users/longphan/dotnet-demo/Reactivities/Domain/bin/Debug/net7.0/Domain.pdb
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfoInputs.cache
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/Domain.AssemblyInfo.cs
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/Domain.csproj.CoreCompileInputs.cache
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/Domain.dll
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/refint/Domain.dll
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/Domain.pdb
+/Users/longphan/dotnet-demo/Reactivities/Domain/obj/Debug/net7.0/ref/Domain.dll
